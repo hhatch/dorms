@@ -1,0 +1,7 @@
+#use glob syntax
+syntax: glob
+
+build
+*.xyz
+launch.cmd
+*ipynb_checkpoints
