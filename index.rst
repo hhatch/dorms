@@ -11,6 +11,7 @@ Contents:
 .. toctree::
 
    README
+   dorms/README
    lennard_jones/README
 
 Index
