@@ -16,4 +16,5 @@ which depends only on the LennardJones parameters.
 
 .. toctree::
 
+   configurations/readme.ipynb
    transition_matrix/readme.ipynb
