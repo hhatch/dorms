@@ -86,7 +86,7 @@ language = None
 # use to exclude tutorial but... exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'tutorial', 'test',
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'test',
   'extern', 'googletest-src', 'googletest-build', 'googletest-download',
-  '**.ipynb_checkpoints', '*software*']
+  '**.ipynb_checkpoints', '**software**']
 
 # The reST default role (used for this markup: `text`) to use for all
 # documents.
