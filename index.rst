@@ -1,7 +1,7 @@
-.. GORMS documentation main file.
+.. DORMS documentation main file.
 
 ###############################################################################
-GORMS: graphics of reproducible molecular simulations
+DORMS: database of reproducible molecular simulations
 ###############################################################################
 
 .. include:: README.rst
@@ -11,8 +11,8 @@ Contents:
 .. toctree::
 
    README
-   dorms/README
    lennard_jones/README
+   dorms-data/README
 
 Index
 ==================
